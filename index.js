@@ -44,4 +44,4 @@ switch(operation){
         result = "Invalid Operation";
     }
 
-    console.log("The result of this operation is : " + result);
+    console.log("Result : " + result);
